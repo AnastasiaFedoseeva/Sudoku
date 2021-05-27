@@ -1,0 +1,72 @@
+<resources>
+    <!-- Main -->
+    <string name="app_name">Sudoku</string>
+    <string name="start_button">Старт</string>
+    <string name="records_button">Рекорды</string>
+    <string name="todo">TODO</string>
+
+    <!-- Game -->
+    <string name="one_button">1</string>
+    <string name="two_button">2</string>
+    <string name="three_button">3</string>
+    <string name="four_button">4</string>
+    <string name="five_button">5</string>
+    <string name="six_button">6</string>
+    <string name="seven_button">7</string>
+    <string name="eight_button">8</string>
+    <string name="nine_button">9</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="note">Заметка</string>
+    <string name="toast_3_sec">+3 секунды</string>
+
+    <!-- Game Over Dialog -->
+    <string name="title_game_over_d">Поражение</string>
+    <string name="game_over_exit">Выход</string>
+    <string name="game_over_new">Новая игра</string>
+
+    <!-- Finish Game Dialog -->
+    <string name="title_finish_d">Победа!</string>
+    <string name="finish_game_end">Закончить игру</string>
+    <string name="finish_game_new">Начать новую игру</string>
+
+    <!-- Start Game Dialog -->
+    <string name="title_start_d">Выберите сложность</string>
+    <string name="start">Начать игру</string>
+    <string name="cancel">Отмена</string>
+
+    <!-- Records -->
+    <string name="records_title">Рекорды</string>
+    <string name="best_time_text">Лучшее время:</string>
+    <string name="finished_sudoku">Пройдено судоку:</string>
+    <string name="hard">Тяжёлых</string>
+    <string name="all">Всего</string>
+    <string name="medium">Средних</string>
+    <string name="easy">Лёгких</string>
+
+    <!--Difficult-->
+    <string name="training">Тренировка</string>
+    <string name="easy_name">Легко</string>
+    <string name="medium_name">Средне</string>
+    <string name="hard_name">Сложно</string>
+
+    <!-- Registration -->
+    <string name="records_without_authorization">Авторизуйтесь, чтобы видеть рекорды других игроков!</string>
+    <string name="registration">Регистрация</string>
+    <string name="email">Введите ваш Email</string>
+    <string name="btnregister_text">Зарегистрироваться</string>
+    <string name="passwd">Введите пароль</string>
+    <string name="for_login">Нажмите, если уже есть аккаунт</string>
+    <string name="login_h">Вход</string>
+    <string name="login">Войти</string>
+    <string name="for_registration">Нажмите, чтобы создать новый аккаунт</string>
+    <string name="name">Введите имя или ник</string>
+    <string name="errors">Ошибок: %d</string>
+</resources>
